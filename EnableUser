@@ -1,0 +1,1 @@
+Enable-Mailbox -Identity <account> -Alias <alias> -Displayname <displayname> -Database <database>
